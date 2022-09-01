@@ -36,7 +36,7 @@ redis_includes: []
 redis_requirepass: ""
 
 # Set protected-mode
-redis_protected_mode: "yes"
+redis_protected_mode: "no"
 
 # Disable certain Redis commands for security reasons.
 redis_disabled_commands: []
